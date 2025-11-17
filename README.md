@@ -15,6 +15,7 @@ Features
 ✔ Responsive and minimal design
 
 ✔ Clean UI with modern gradient background
+
 Technologies Used
 
 HTML
@@ -22,11 +23,13 @@ HTML
 CSS
 
 JavaScript 
+
 Project Structure
 /project-folder
 │── index.html
 │── style.css
 │── app.js
+
 Future Improvements
 
 Add scientific calculator functions
@@ -34,6 +37,7 @@ Add scientific calculator functions
 Add keyboard input support
 
 Add themes (dark/light mode)
+
 Contributing
 
 Contributions are welcome!
